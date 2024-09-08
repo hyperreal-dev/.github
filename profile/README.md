@@ -1,4 +1,6 @@
-<img src="readme_banner.png" width="100%" />
+<div align="center">
+  <img src="readme_banner.png" width="100%"/>
+</div>
 
 <div>
 <br />
